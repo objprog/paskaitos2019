@@ -6,7 +6,7 @@
 
 |                                                              |
 | ------------------------------------------------------------ |
-| [1-oji užduotis](https://github.com/objprog/paskaitos2019/wiki/1-oji-užduotis) |
+| [Įrėmintas pasisveikinimas](https://github.com/objprog/paskaitos2019/wiki/Įrėmintas-pasisveikinimas) |
 |                                                              |
 
 # OOP kurso temos (pagal dalyko modulį)

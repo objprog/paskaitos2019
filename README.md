@@ -1,13 +1,12 @@
 # Objektinio programavimo 2019 m. paskaitų medžiaga 
 
-# [Wiki](https://github.com/objprog/paskaitos2019/wiki) meniu
+# [Wiki puslapis](https://github.com/objprog/paskaitos2019/wiki)
 
 <a href="https://github.com/objprog/praktika/wiki"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="20"></a> __Praktinės užduotys:__
 
-|                                                              |
-| ------------------------------------------------------------ |
-| [Įrėmintas pasisveikinimas](https://github.com/objprog/paskaitos2019/wiki/Įrėmintas-pasisveikinimas) |
-|                                                              |
+| 1-oji užduotis                                               | 2-oji užduotis      |
+| ------------------------------------------------------------ | ------------------- |
+| [Įrėmintas pasisveikinimas](https://github.com/objprog/paskaitos2019/wiki/1-oji-užduotis) | [Duomenų apdorojimas](https://github.com/objprog/paskaitos2019/wiki/2-oji-užduotis) |
 
 # OOP kurso temos (pagal dalyko modulį)
 

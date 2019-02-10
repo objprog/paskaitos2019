@@ -12,6 +12,6 @@
 
 | Temų pavadinimai                                             | Skaidrės                                                     | GitHub Wiki |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | ----------- |
-| 1. Kurso apžvalga, rekomenduojama literatūra, C++ standartai, pažintis su programavimo aplinka: kompiliatorių ir įrankių (IDE) apžvalga, versijų kontrolės sistemos (git), make/cmake įrankiai, unit-testai, kas yra objektiškai orientuotas programavimas (OOP)?, objekto koncepcija, C++11 standarto apžvalga. | [1-Ivadas](https://github.com/objprog/paskaitos2019/blob/master/slides/Teorija-1-Ivadas.pdf) |             |
+| 1. Kurso apžvalga, rekomenduojama literatūra, C++ standartai, pažintis su programavimo aplinka: kompiliatorių ir įrankių (IDE) apžvalga, versijų kontrolės sistemos (git), make/cmake įrankiai, unit-testai, kas yra objektiškai orientuotas programavimas (OOP)?, objekto koncepcija, C++11 standarto apžvalga. | [1-Ivadas](https://github.com/objprog/paskaitos2019/blob/master/slides/Teorija-1-Ivadas.pdf) |  [Naujos C++11 funkcijos](https://github.com/objprog/paskaitos2019/wiki/Naujos-C--11-funkcijos)           |
 |                                                              |                                                              |             |
 

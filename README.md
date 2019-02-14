@@ -8,7 +8,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- | ---- | ---- |
 | [Įrėmintas pasisveikinimas](https://github.com/objprog/paskaitos2019/wiki/1-oji-užduotis) | [Duomenų apdorojimas](https://github.com/objprog/paskaitos2019/wiki/2-oji-užduotis) |      |      |      |      |
 | **1-osios užduoties analizė**:                               | **2-osios užduoties analizė**:                               |      |      |      |      |
-|                                                              |                                                              |      |      |      |      |
+| [1-os užduoties sprendimo analizė](https://github.com/objprog/paskaitos2019/wiki/1-osios-užduoties-sprendimo-analizė) |                                                              |      |      |      |      |
 
 # OOP kurso temos (pagal dalyko modulį)
 

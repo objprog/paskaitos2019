@@ -12,7 +12,7 @@
 
 # OOP kurso temos (pagal dalyko modulį)
 
-| Temų pavadinimai                                             | Skaidrės                                                     | GitHub Wiki                                                  |
+| Temų pavadinimai                                             | Skaidrės (pdf)                                                    | GitHub Wiki                                                  |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | 1. **Kurso apžvalga**, rekomenduojama literatūra, `C++` standartai, pažintis su programavimo aplinka: kompiliatorių ir įrankių (IDE) apžvalga, versijų kontrolės sistemos (git), make/cmake įrankiai, unit-testai, kas yra objektiškai orientuotas programavimas (OOP)?, objekto koncepcija, `C++11` standarto apžvalga. | <ul> <li>[Teorija-Ivadas](https://github.com/objprog/paskaitos2019/blob/master/slides/Teorija-1-Ivadas.pdf)</li> <li>  [Pratybos-1-os-uzduoties-analize](https://github.com/objprog/paskaitos2019/blob/master/slides/1-os-uzduoties-analize.pdf) </li> </ul> | [Naujos C++11 funkcijos](https://github.com/objprog/paskaitos2019/wiki/Naujos-C--11-funkcijos) |
 | 2. **Baziniai duomenų tipai**, tipų transformacija, l-reikšmės ir r-reikšmės, rodyklės ir nuorodos, konstantinės nuorodos, dinaminis atminties valdymas, aritmetika su adresais, “išmaniosios” rodyklės, funkcijų persidengimas, direktyvos, įvesties ir išvesties operatoriai. |                                                              |                                                              |

@@ -1,5 +1,9 @@
 # Objektinio programavimo 2019 m. paskaitų medžiaga 
 
+# Svarbu
+
+- Prie antrosios užduoties atsirado [Papildoma užduotis](https://github.com/objprog/paskaitos2019/wiki/2-oji-u%C5%BEduotis#papildoma-uzduotis) skirta norint pasikelti balą, gautą atsiskaičius/apgynus Jūsų atliktą užduotį - "Duomenų apdorojimas".
+
 # [Wiki puslapis](https://github.com/objprog/paskaitos2019/wiki)
 
 <a href="https://github.com/objprog/praktika/wiki"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="20"></a> __Praktinės užduotys:__

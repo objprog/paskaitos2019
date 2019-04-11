@@ -2,10 +2,6 @@
 
 # Aktualu
 
-- Pridėtos papildomos užduotėlės iš Operatorių persidengimo teorijos. Atlikus šias užduotis, bent vienas iš Jūsų rytoj (2019-04-11) turės galimybę uždirbti **papildomus 0.5 balo!** 
-  
-  <img src="img/Papildomos-uzduoteles.jpg" width="400">
-
 - Atsirado nauja, trečioji užduotis: [Naujų tipų kūrimas ir jų naudojimas](https://github.com/objprog/paskaitos2019/wiki/3-oji-užduotis), o taip pat ir jai skirta teorinės medžiagos "porcija": [Teorija-Vartotojų tipai](https://github.com/objprog/paskaitos2019/blob/master/slides/Teorija-VartotojuTipai.pdf). **this->Sėkmės!** :smile:
 
 - ~~Prie antrosios užduoties atsirado [Papildoma užduotis](https://github.com/objprog/paskaitos2019/wiki/2-oji-u%C5%BEduotis#papildoma-uzduotis) skirta norint pasikelti balą, gautą atsiskaičius/apgynus Jūsų atliktą užduotį - "Duomenų apdorojimas".~~

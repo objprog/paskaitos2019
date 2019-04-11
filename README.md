@@ -2,6 +2,8 @@
 
 # Aktualu
 
+
+- Pridėta naujausios skaidrės. Padirbėkit, pailsėkit ir gražiai :egg: šventes paminėkit! 
 - Atsirado nauja, trečioji užduotis: [Naujų tipų kūrimas ir jų naudojimas](https://github.com/objprog/paskaitos2019/wiki/3-oji-užduotis), o taip pat ir jai skirta teorinės medžiagos "porcija": [Teorija-Vartotojų tipai](https://github.com/objprog/paskaitos2019/blob/master/slides/Teorija-VartotojuTipai.pdf). **this->Sėkmės!** :smile:
 
 - ~~Prie antrosios užduoties atsirado [Papildoma užduotis](https://github.com/objprog/paskaitos2019/wiki/2-oji-u%C5%BEduotis#papildoma-uzduotis) skirta norint pasikelti balą, gautą atsiskaičius/apgynus Jūsų atliktą užduotį - "Duomenų apdorojimas".~~

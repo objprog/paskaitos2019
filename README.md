@@ -2,7 +2,7 @@
 
 # Aktualu
 
-
+- O kad įsibėgėjusios atostogos neprailgų, pridėjau dar ir papildomą užduotį (nurodymus) kaip būtų galima užsidirbti iki dviejų [papildomų balų](https://github.com/objprog/paskaitos2019/wiki/3-oji-u%C5%BEduotis#papildoma-uzduotis). Sėkmės besimokant ir bemokant kitus! :smile:
 - Kad atostogos būtų turiningesnės, pridėjau [4-ąją užduotį: Vector konteinerio kūrimas](https://github.com/objprog/paskaitos2019/wiki/4-oji-užduotis). Kaip esu minėjęs,  ji turi būti daroma lygiagrečiai su 3-ąja užduotimi.
 - Pridėta naujausios skaidrės. Padirbėkit, pailsėkit ir gražiai :egg: šventes paminėkit! 
 - Atsirado nauja, trečioji užduotis: [Naujų tipų kūrimas ir jų naudojimas](https://github.com/objprog/paskaitos2019/wiki/3-oji-užduotis), o taip pat ir jai skirta teorinės medžiagos "porcija": [Teorija-Vartotojų tipai](https://github.com/objprog/paskaitos2019/blob/master/slides/Teorija-VartotojuTipai.pdf). **this->Sėkmės!** :smile:

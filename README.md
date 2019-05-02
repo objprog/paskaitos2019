@@ -2,7 +2,7 @@
 
 # Aktualu
 
-- Įkėliau šios savaitės skaidres apie [polymorfizmą](https://github.com/objprog/paskaitos2019/blob/master/slides/Teorija-polymorfizmas.pdf).
+- Įkėliau šios savaitės skaidres apie [polymorfizmą](https://github.com/objprog/paskaitos2019/blob/master/slides/Teorija-polymorfizmas.pdf). Čia rasite ir medžiagą apie abstrakčias klases, kurios reikia trečiosios užduoties `v1.5` atlikimui.
 - Įkėliau šios savaitės abiejų teorinių paskaitų skaidres - turiningo likusio savaitgalio!
 - O kad įsibėgėjusios atostogos neprailgų, pridėjau dar ir papildomą užduotį (nurodymus) kaip būtų galima užsidirbti iki dviejų [papildomų balų](https://github.com/objprog/paskaitos2019/wiki/3-oji-u%C5%BEduotis#papildoma-uzduotis). Sėkmės besimokant ir bemokant kitus! :smile:
 - Kad atostogos būtų turiningesnės, pridėjau [4-ąją užduotį: Vector konteinerio kūrimas](https://github.com/objprog/paskaitos2019/wiki/4-oji-užduotis). Kaip esu minėjęs,  ji turi būti daroma lygiagrečiai su 3-ąja užduotimi.

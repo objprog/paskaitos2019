@@ -2,6 +2,7 @@
 
 # Aktualu
 
+- **Papildoma užduotis** (verta 0.5 galutinio balo: ją reikės "atsitiktiniam" iš jūsų pristatyti per kitos savaitęs teorinę paskaitą): pabandykite realizuoti polymorfiškai Jums patinkantį (pasirinktą) operatorių ir pakomentuokite visą realizacijos procesą, bet pateikite išvadas/rekomendacijas kolegoms.
 - Įkėliau šios savaitės skaidres apie [polymorfizmą](https://github.com/objprog/paskaitos2019/blob/master/slides/Teorija-polymorfizmas.pdf). Čia rasite ir medžiagą apie abstrakčias klases, kurios reikia trečiosios užduoties `v1.5` atlikimui.
 - Įkėliau šios savaitės abiejų teorinių paskaitų skaidres - turiningo likusio savaitgalio!
 - O kad įsibėgėjusios atostogos neprailgų, pridėjau dar ir papildomą užduotį (nurodymus) kaip būtų galima užsidirbti iki dviejų [papildomų balų](https://github.com/objprog/paskaitos2019/wiki/3-oji-u%C5%BEduotis#papildoma-uzduotis). Sėkmės besimokant ir bemokant kitus! :smile:

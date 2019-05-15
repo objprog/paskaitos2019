@@ -2,6 +2,7 @@
 
 # Aktualu
 
+- [x] Pridėta paskutinioji užduotis, skirta [asociatyvių konteinerių efektyviam panaudojimui](https://github.com/objprog/paskaitos2019/wiki/5-oji-užduotis). Paskutinė jos dalis bus paskirta egzamino metu.
 - [x] Taip pat noriu padėkoti, o atsidėkodamas ir apdovanoti po 0.5 prie galutinio balo (prašyčiau juos įsirašyti į mūsų spreadsheet failą) šiuos du "veikėjus": [@zygisau](https://github.com/zygisau/) ir [@gitguuddd](https://github.com/gitguuddd) už originaliai išspręstą mūsų mažą "problemytę" su Wandbox'u: https://github.com/zygisau/WandBox-helper
 - [x] **Papildoma užduotis** (verta 0.5 galutinio balo: ją reikės "atsitiktiniam" iš jūsų pristatyti per kitos savaitęs teorinę paskaitą): pabandykite realizuoti polymorfiškai Jums patinkantį (pasirinktą) operatorių ir pakomentuokite visą realizacijos procesą, bet pateikite išvadas/rekomendacijas kolegoms. Tikėtina, kad leisiu savo patirtimi pasidalinti ne vienam, o keliems Jums, ypač jeigu Jūs turėsite kažką naujo pridėti lyginant su jau pristačiusiais.
 - [x] Įkėliau šios savaitės skaidres apie [polymorfizmą](https://github.com/objprog/paskaitos2019/blob/master/slides/Teorija-polymorfizmas.pdf). Čia rasite ir medžiagą apie abstrakčias klases, kurios reikia trečiosios užduoties `v1.5` atlikimui.
@@ -14,9 +15,9 @@
 
 <a href="https://github.com/objprog/praktika/wiki"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="20"></a> __Praktinės užduotys:__
 
-| 1-oji užduotis:                                              | 2-oji užduotis:                                              | 3-oji užduotis:                                              | 4-oji užduotis:                                              | 5-oji užduotis:                                              |      |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| [Įrėmintas pasisveikinimas](https://github.com/objprog/paskaitos2019/wiki/1-oji-užduotis) | [Duomenų apdorojimas](https://github.com/objprog/paskaitos2019/wiki/2-oji-užduotis) | [Naujų tipų kūrimas ir jų naudojimas](https://github.com/objprog/paskaitos2019/wiki/3-oji-užduotis) | [Vector konteinerio kūrimas](https://github.com/objprog/paskaitos2019/wiki/4-oji-užduotis) | [Asociatyvių konteinerių panaudojimas](https://github.com/objprog/paskaitos2019/wiki/5-oji-užduotis) |      |
+| 1-oji užduotis:                                              | 2-oji užduotis:                                              | 3-oji užduotis:                                              | 4-oji užduotis:                                              | 5-oji užduotis:                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Įrėmintas pasisveikinimas](https://github.com/objprog/paskaitos2019/wiki/1-oji-užduotis) | [Duomenų apdorojimas](https://github.com/objprog/paskaitos2019/wiki/2-oji-užduotis) | [Naujų tipų kūrimas ir jų naudojimas](https://github.com/objprog/paskaitos2019/wiki/3-oji-užduotis) | [Vector konteinerio kūrimas](https://github.com/objprog/paskaitos2019/wiki/4-oji-užduotis) | [Asociatyvių konteinerių panaudojimas](https://github.com/objprog/paskaitos2019/wiki/5-oji-užduotis) |
 
 # OOP kurso temos (pagal dalyko modulį)
 
